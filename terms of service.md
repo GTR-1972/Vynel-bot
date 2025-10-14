@@ -56,6 +56,6 @@ Owner reserves the right to modify these Terms at any time. You are responsible 
 
 These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
 
-By using the Bot, you agree to abide by these Terms. If you have any questions or concerns, please contact [Server Support](https://discord.gg/5sWatSkSCY).
+By using the Bot, you agree to abide by these Terms. If you have any questions or concerns, please contact [Server Support](https://discord.gg/schill).
 
 **Effective Date: 03/07/2025**
